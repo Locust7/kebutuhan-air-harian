@@ -26,4 +26,4 @@ if st.button("Hitung"):
         st.warning("Masukkan berat badan yang valid.")
 
 st.markdown("---")
-st.caption("Proyek Streamlit oleh [Nama Kamu]")
+st.caption("Proyek Streamlit oleh [Kelompok 7]")
